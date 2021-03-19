@@ -8,13 +8,27 @@
     padding-top: 40px;
     font-family: 'Courier New', Courier, monospace;
 }
+.teks2{
+    opacity: 32%;
+ }
 .box1{
     justify-content: left;
     height: 350px;
 }
 .box2{
-    height: 90px;
+    height: 20px;
 }
-.teks2{
-   opacity: 32%;
+.box3{
+    height: 300px;
 }
+.box4{
+    height: 100px;
+}
+.box5{
+    height: 300px;
+}
+.box6{
+    height: 30px;
+}
+
+  
